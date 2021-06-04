@@ -13,7 +13,7 @@
 
 - 📝 All of my certifications are available at [tmatin-certifications](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1)
 
-- 💬 Ask me about **AWS, Jenkins, Docker, Maven & JUnit**
+- 💬 Ask me about **AWS, CI/CD, Jenkins, Maven, Docker, Kubernetes**
 
 - 📫 How to reach me **tmatin100@gmail.com**
 
