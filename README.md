@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmatin100&label=Profile%20views&color=0e75b6&style=flat" alt="tmatin100" /> </p>
 
-- 🔭 I’m currently working on [Ansible Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
+- 🔭 I've completed this project in the past [Ansible Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-- 🤝 I’m looking for help with [PGDO DevOps](https://github.com/tmatin100/PGDO-DevOps-FinalProject-)
+- 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
 
