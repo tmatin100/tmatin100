@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmatin100&label=Profile%20views&color=0e75b6&style=flat" alt="tmatin100" /> </p>
 
-- 🔭 I've completed this project in the past [Ansible Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
+- 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
