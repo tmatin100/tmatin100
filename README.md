@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
 
-- 📝 All of my certifications are available at [tmatin-certifications-Credly](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [tmatin-certifications-Accredible](https://v2.credential.net/profile/tamzidulmatin/wallet)
+- 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tamzidulmatin/wallet)
 
-- 💬 Ask me about **AWS, CI/CD, Jenkins, Maven, Ansible, Docker, Kubernetes**
+- 💬 Ask me about **AWS, Terrafomr, CI/CD, Jenkins, Maven, Ansible, Docker, Kubernetes, and Python**
 
 - 📫 How to reach me **tmatin100@gmail.com**
 
