@@ -7,7 +7,7 @@
 
 - ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-- 🙌 Here are some usefull DevOps systems installtion and inegration steps. 
+- 🙌 Here are some usefull DevOps systems installtion and intgration steps. 
 
 - 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git)
 
