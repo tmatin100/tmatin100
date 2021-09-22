@@ -9,11 +9,13 @@
 
 - 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git)
 
+- 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tamzidulmatin/wallet)
+
 - ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
 
-- 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tamzidulmatin/wallet)
+
 
 - 💬 Ask me about **AWS, Terraform, CI/CD, Jenkins, Maven, Ansible, Docker, Kubernetes, and Python**
 
