@@ -5,11 +5,11 @@
 
 - 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
-- ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
-
 - 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
 
 - 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git)
+
+- ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
 
