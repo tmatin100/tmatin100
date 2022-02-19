@@ -7,7 +7,7 @@
 
 - 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
 
-- 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git),[Python_Algorhytims](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git) and [Bash](https://github.com/tmatin100/Bash.git)
+- 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git), [Bash](https://github.com/tmatin100/Bash.git), and [Python_Algorhytims](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git)
 
 - 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tamzidulmatin/wallet)
 
