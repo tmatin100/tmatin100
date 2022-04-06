@@ -5,7 +5,7 @@
 
 - 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
-- I have worked on some [Bash](https://github.com/tmatin100/Bash.git) in the past. 
+- #️⃣❕I have worked on some [Bash](https://github.com/tmatin100/Bash.git) in the past. 
 
 - 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
 
