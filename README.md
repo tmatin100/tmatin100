@@ -11,7 +11,7 @@
 
 - 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python_Algorhytms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
 
-- 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tamzidulmatin/wallet)
+- 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tmatin100/wallet#gs.zlxiyd)
 
 - ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App), and completed this K8 project in the past [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view)
 
