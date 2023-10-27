@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmatin100&label=Profile%20views&color=0e75b6&style=flat" alt="tmatin100" /> </p>
 
-- I am currently working my own website using Python Flask [Tamzidul Matin ](https://tmatin100.pythonanywhere.com)
+- 🧑🏻‍💻 am currently working my own website using Python Flask (still under construction) [Tamzidul Matin ](https://tmatin100.pythonanywhere.com)
 
 - 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
@@ -17,7 +17,7 @@
 
 - ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App), and completed this K8 project in the past [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view)
 
-- 👨‍💻 All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
+- 🗂️ All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
 
 - 💬 Ask me about **AWS, Terraform, Git, CI/CD, Jenkins, Maven, Ansible, Docker, Kubernetes, and Python**
 
