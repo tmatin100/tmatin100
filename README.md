@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmatin100&label=Profile%20views&color=0e75b6&style=flat" alt="tmatin100" /> </p>
 
-- 🧑🏻‍💻 I am currently working my own website using Python Flask (still under construction as I have utilized an html template) [Tamzidul Matin ](https://tmatin100.pythonanywhere.com) code can be found here [portfolio]([https://tmatin100.pythonanywhere.com](https://github.com/tmatin100/portfolio)) https://github.com/tmatin100/portfolio
-
+- 🧑🏻‍💻 I am currently working my own website using Python Flask (still under construction as I have utilized an html template) [Tamzidul Matin ](https://tmatin100.pythonanywhere.com) code can be found here [portfolio](https://github.com/tmatin100/portfolio)
 - 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
 - #️⃣❕I have worked on some [Bash](https://github.com/tmatin100/Bash.git) in the past. 
