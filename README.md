@@ -10,7 +10,7 @@
   
 - 🐍 I have also  worked on some [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python_Algorhytms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
   
-- 🐈 I am also exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82), [PyTorch](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH)
+- 🐈 I am also exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82), [PyTorch-2](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH)
 
 - 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
   
