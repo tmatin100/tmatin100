@@ -13,7 +13,7 @@
 - 🐈 I am also exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82), [PyTorch](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH)
 
 - 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
-- 
+  
 - 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tmatin100/wallet#gs.zlxiyd)
 
 - ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App), and completed this K8 project in the past [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view)
