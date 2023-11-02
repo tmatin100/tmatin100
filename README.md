@@ -6,12 +6,14 @@
 - 🧑🏻‍💻 I am currently working my own website using Python Flask (still under construction as I have utilized an html template) [Tamzidul Matin ](https://tmatin100.pythonanywhere.com) code can be found here [portfolio](https://github.com/tmatin100/portfolio)
 - 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
 
-- #️⃣❕I have worked on some [Bash](https://github.com/tmatin100/Bash.git) in the past. 
+- #️⃣❕I have worked on some [Bash](https://github.com/tmatin100/Bash.git) in the past.
+  
+- 🐍 I have also  worked on some [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python_Algorhytms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
+  
+- 🐈 I am also exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82), [PyTorch](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH)
 
 - 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
-
-- 🤝 I’m am currenlty working on [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python_Algorhytms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
-
+- 
 - 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tmatin100/wallet#gs.zlxiyd)
 
 - ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App), and completed this K8 project in the past [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view)
