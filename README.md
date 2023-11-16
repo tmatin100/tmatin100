@@ -1,35 +1,35 @@
-<h1 align="center">Hi 👋, I'm Tamzidul Matin</h1>
-<h3 align="center">A passionate Cloud DevOps Engineer from New York, NY.</h3>
+<h1 align="center">Hello, I'm Tamzidul Matin 👋</h1>
+<h3 align="center">Passionate Cloud DevOps Engineer | New York, NY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmatin100&label=Profile%20views&color=0e75b6&style=flat" alt="tmatin100" /> </p>
 
-- 🧑🏻‍💻 I am currently working my own website using Python Flask (still under construction as I have utilized an html template) [Tamzidul Matin ](https://tmatin100.pythonanywhere.com) code can be found here [portfolio](https://github.com/tmatin100/portfolio)
-- 🔭 I've completed this project in the past [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project)
+### About Me
+- 💼 I am currently developing my personal website using Python Flask (still under construction as I have utilized an HTML template). Check it out here: [Tamzidul Matin](https://tmatin100.pythonanywhere.com). You can find the code on [GitHub](https://github.com/tmatin100/portfolio).
+- 🔬 I've successfully completed a significant project: [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project).
 
-- #️⃣❕I have worked on some [Bash](https://github.com/tmatin100/Bash.git) in the past.
-  
-- 🐍 I have also  worked on some [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python_Algorhytms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
-  
-- 🐈 I am also exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82), [PyTorch-2](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH)
+### Technical Skills
+- 💻 Proficient in [Bash scripting](https://github.com/tmatin100/Bash.git).
+- 🐍 Experienced in [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python Algorithms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
+- 🧠 Exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82) and [PyTorch-2](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH).
 
-- 🙌 Here are some usefull DevOps systems installtion and integration steps. [DevOps Taks ](https://github.com/tmatin100/DevOps_Integration_Tasks.git)
-  
-- 📝 All of my certifications are available at [Credly-T.Maitn](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and here [Accredible-T.Matin](https://v2.credential.net/profile/tmatin100/wallet#gs.zlxiyd)
+### DevOps and Projects
+- ☸️ Open to collaboration on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App) projects. Also, completed a notable K8 project: [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view).
+- 📂 Explore all my projects on [GitHub](https://github.com/tmatin100).
 
-- ☸️ I’m looking to collaborate on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App), and completed this K8 project in the past [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view)
+### Certifications
+- 🏅 View my certifications on [Credly](https://www.credly.com/users/tmatin/badges?sort=-state_updated_at&page=1) and [Accredible](https://v2.credential.net/profile/tmatin100/wallet#gs.zlxiyd).
 
-- 🗂️ All of my projects are available at [https://github.com/tmatin100](https://github.com/tmatin100)
+### Contact
+- ✉️ Reach out to me at **tmatin100@gmail.com**.
 
-- 💬 Ask me about **AWS, Terraform, Git, CI/CD, Jenkins, Maven, Ansible, Docker, Kubernetes, and Python**
-
-- 📫 How to reach me **tmatin100@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### Connect with Me
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://twitter.com/tmatin100" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="tamzidulm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tmatin" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="tmatin" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+### Languages and Tools
 <p align="left"> <a href="https://www.terraform.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/cloud/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.gnu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -37,6 +37,4 @@
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a> 
 <a href="https://docs.djangoproject.com/en/4.2/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="PyTorch" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a> 
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmatin100&show_icons=true&locale=en" alt="tmatin100" /></p>
 
