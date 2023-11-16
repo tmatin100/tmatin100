@@ -9,8 +9,7 @@
 ### Technical Skills
 - 💻 Proficient in [Bash scripting](https://github.com/tmatin100/Bash.git).
 - 🐍 Experienced in [Python Programing](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python Algorithms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
-- 🧠 Exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82) and [PyTorch-2](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH).
-
+- 🧠 Exploring Machine/Deep Learning using [PyTorch](https://github.com/tmatin100/PyTorch)
 ### DevOps and Projects
 - 🔬 I've successfully completed a significant project: [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project).
 - ☸️ Open to collaboration on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App) projects. Also, completed a notable K8 project: [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view).
