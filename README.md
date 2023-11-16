@@ -11,7 +11,7 @@
 - 🐍 Experienced in [Python Programing](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python Algorithms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
 - 🧠 Exploring Machine/Deep Learning using [PyTorch](https://github.com/tmatin100/PyTorch)
 ### DevOps and Projects
-- 🔬 I've successfully completed a significant project: [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project).
+- 🔬 I've successfully completed a significant DevOps project: [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project).
 - ☸️ Open to collaboration on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App) projects. Also, completed a notable K8 project: [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view).
 - 📊 I have comlpeted this IBM Data Science Project as pert of a certification [IBM Data Science Capstone](https://github.com/tmatin100/Applied-Data-Science-Capstone)
 
