@@ -8,7 +8,7 @@
 
 ### Technical Skills
 - 💻 Proficient in [Bash scripting](https://github.com/tmatin100/Bash.git).
-- 🐍 Experienced in [Python](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python Algorithms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
+- 🐍 Experienced in [Python Programing](https://github.com/tmatin100/Python.git), [Python Data Structures](https://github.com/tmatin100/Python_BootCamp.git), and [Python Algorithms](https://github.com/tmatin100/Python_Algorithms_Data-Structures.git).
 - 🧠 Exploring Machine/Deep Learning using [PyTorch-1](https://colab.research.google.com/drive/1zYiiANHc4VQD8xzus_JFa0FblCE2Kc82) and [PyTorch-2](https://colab.research.google.com/drive/1Z0NH32g6sIiatUxgar5GghnE8oqxq7AH).
 
 ### DevOps and Projects
