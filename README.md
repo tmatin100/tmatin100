@@ -13,6 +13,7 @@
 
 ### DevOps and Projects
 - 🔬 I've successfully completed a significant DevOps project: [Jenkins/Ansible/Docker CI-CD Project](https://github.com/tmatin100/CalTech-PG-DevOps-Final-Capstone-Project).
+- 🌐 I have successfully completed multiple projects using Django: [DjangoProjects](https://github.com/tmatin100/DjangoProjects)).
 - ☸️ Open to collaboration on [Kubernetes](https://github.com/tmatin100/Kubernetes-Example-Voting-App) projects. Also, completed a notable K8 project: [Kubernetes KOPS cluster on AWS](https://drive.google.com/file/d/1OC09AExcbFjrUDqLHT9bTIG5q4GvhrIx/view).
 - 📊 I have comlpeted this IBM Data Science Project as pert of a certification [IBM Data Science Capstone](https://github.com/tmatin100/Applied-Data-Science-Capstone)
 
