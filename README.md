@@ -5,6 +5,8 @@
 
 ### About Me
 - 💼 I am currently developing my personal website using Python Flask (still under construction as I have utilized an HTML template). Check it out here: [Tamzidul Matin](https://tmatin100.pythonanywhere.com). You can find the code on [GitHub](https://github.com/tmatin100/portfolio).
+- ⚙️ Actively working on end-to-end [MLOps Projects](https://github.com/tmatin100/MLOps-Projects) combining DevOps practices with Machine Learning workflows.
+
 
 ### Technical Skills
 - 💻 Proficient in [Bash scripting](https://github.com/tmatin100/Bash.git).
